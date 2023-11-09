@@ -1,5 +1,5 @@
 # React
-## Hi, it`s me code
+## Hi, it`s my code
 ## for home work
 ### if you have a question look for answer!!!
 #### good luck!
